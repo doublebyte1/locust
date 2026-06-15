@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,/collections/cosc2018,"ConnectionResetError(104, 'Connection reset by peer')",47,2026-06-15T10:40:15Z,2026-06-15T10:41:13Z
+GET,/collections/cosc2018,RemoteDisconnected('Remote end closed connection without response'),129,2026-06-15T10:40:03Z,2026-06-15T10:41:12Z

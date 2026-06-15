@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences,First Seen,Last Seen
+GET,/collections/srup_arvores_point/tiles,RemoteDisconnected('Remote end closed connection without response'),110,2026-06-15T10:47:16Z,2026-06-15T10:48:07Z
+GET,/collections/srup_arvores_point/tiles,"ConnectionResetError(104, 'Connection reset by peer')",15,2026-06-15T10:47:28Z,2026-06-15T10:48:06Z
